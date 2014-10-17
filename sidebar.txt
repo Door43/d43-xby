@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xby:home|Door43 (xby)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xby|d43-xby repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xby/archive/master.zip|d43-xby.zip]]
+
+**Recent Changes**
+{{changes>ns = xby}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xby|Ethnologue data]]
+
